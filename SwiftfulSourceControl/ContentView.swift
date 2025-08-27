@@ -41,7 +41,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Swiftful ")
             
-            Button("Clickfff fgfgg") {
+            Button("Clickfff fgfgggggggg") {
                 
             }
             .background(Color.red)
