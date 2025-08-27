@@ -5,6 +5,11 @@
 //  Created by Darren Pan on 8/27/25.
 //
 /*
+ Clone = Copying the repo locally
+ Commit = Save ("checkpoint") on our current branch
+ Stage = Prepare changes for a commit
+ Stash = Save changes for later
+ 
  COMMIT MESSAGES
  
  New Feature:
